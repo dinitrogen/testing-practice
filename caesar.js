@@ -21,6 +21,6 @@ function encryptChar(char, shift) {
     return encryptedChar;
 }
 
-console.log(encryptStr('hello', 20));
+// console.log(encryptStr('hello', 20));
 
 module.exports = encryptStr;
